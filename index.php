@@ -9,7 +9,7 @@
 <div>
   <div class="title">
     <h2>Szabó Sándor</h2>
-    <p>Adatbázis (CRUD) kezelő weboldala!</p>
+    <p>Második beadandó</p>
 
   </div>
   <div class="box">
